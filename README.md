@@ -73,7 +73,7 @@ Predict at new locations using a fitted model.
 - `pred_coef`: Predict spatially varying coefficients (SVC only)
 
 ## Examples
-
+The datasets used for examples are present in the package, see "Package Data" 
 ### 1. Gaussian Process Models
 
 #### Frequentist GP (No Censoring)
