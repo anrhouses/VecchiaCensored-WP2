@@ -1,6 +1,10 @@
 # VecchiaCensored
 
-An R package for efficient spatial modeling with Vecchia approximation, supporting Gaussian Processes (GP) and Spatially Varying Coefficients (SVC) models with optional censoring and Bayesian inference.
+** This is a copy of the repository of [VecchiaCensored](https://github.com/yacine-idir/VecchiaCensored-R-Package) developped by Dr. Yacine Idir in WP2 of the HOUSES project. Check the original repository for more recent updates**
+
+## Description
+
+An R package developped for efficient spatial modeling with Vecchia approximation, supporting Gaussian Processes (GP) and Spatially Varying Coefficients (SVC) models with optional censoring and Bayesian inference.
 
 ## Features
 
