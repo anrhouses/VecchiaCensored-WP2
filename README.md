@@ -1,4 +1,4 @@
-# VecchiaCensored
+# VecchiaCensored by Yacine Idir (WP2 of HOUSES)
 
 **This is a copy of the repository of [VecchiaCensored](https://github.com/yacine-idir/VecchiaCensored-R-Package) developped by Dr. [Yacine Idir](https://fr.linkedin.com/in/yacine-idir-b28484174) in WP2 of the HOUSES project. Check the original repository for more recent updates**
 
